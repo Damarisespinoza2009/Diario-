@@ -1,6 +1,6 @@
 # Diario-
 martes-9-de-septiembre
-5:30
+#5:30
 ante 
 5:50
 me bañe y me arrgele
