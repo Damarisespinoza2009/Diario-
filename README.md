@@ -9,6 +9,6 @@ martes-9-de-septiembre
 6:20 
 # me maquillo 
 
-6:35 
+# 6:35 
 # arreglo mis cosas 
 
